@@ -1,5 +1,6 @@
 # pandas-challenge
-HW4 bootcamp assignment
+HW4 bootcamp assignment using pandas and jupyter notebook
+run with python 3.8
 
 ***  Copied from assignment readme.md:  ***
 
